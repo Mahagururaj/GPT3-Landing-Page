@@ -26,9 +26,3 @@ Make sure you have the following installed:
 - [Node.js](https://nodejs.org/)
 - npm (Node Package Manager) or Yarn
 - Git
-
-
-4. Run the development server:
-    ```bash
-    npm run dev
-  
