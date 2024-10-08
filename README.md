@@ -27,22 +27,6 @@ Make sure you have the following installed:
 - npm (Node Package Manager) or Yarn
 - Git
 
-### Steps
-
-1. Clone the repository:
-    ```bash
-    git clone https://github.com/your-username/your-repo-name.git
-    ```
-
-2. Navigate into the project directory:
-    ```bash
-    cd your-repo-name
-    ```
-
-3. Install dependencies:
-    ```bash
-    npm install
-    ```
 
 4. Run the development server:
     ```bash
