@@ -4,7 +4,7 @@ This repository contains a landing page built using **React** and **Vite**, show
 
 ## Live Demo
 
-[View Live Demo](https://your-username.github.io/your-repo-name)
+[View Live Demo](https://gpt-3-landing-page-gamma.vercel.app/)
 
 ![Landing Page Screenshot](https://github.com/Mahagururaj/GPT3-Landing-Page/blob/main/Screenshot%202024-10-08%20205138.png?raw=true)
 
